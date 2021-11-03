@@ -1,0 +1,23 @@
+[
+{
+    "Puesto" : "1",
+    "Nombre" : "Victor",
+    "Correo" : "victor@gmail.com"
+},
+{
+    "Puesto" : "2",
+    "Nombre" : "Mathew",
+    "Correo" : "mathewlopezg@gmail.com"
+},
+{
+    "Puesto" : "3",
+    "Nombre" : "Jesus",
+    "Correo" : "jesus@gmail.com"
+},
+{
+"Puesto" : "4",
+"Nombre" : "Jose Luis",
+"Correo" : "joseluis@gmail.com"
+}
+]
+
